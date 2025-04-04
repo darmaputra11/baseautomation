@@ -85,8 +85,4 @@ npx wdio run wdio.conf.js --spec ./test/specs/register.test.js
 
 ---
 
-## 🤝 Butuh Bantuan Lanjut?
-
-Tinggal isi Page Object dan test-nya sesuai fitur aplikasi kamu.  
-Butuh integrasi login, dashboard, atau API mocking? Boleh banget, tinggal lanjutkan!
 
